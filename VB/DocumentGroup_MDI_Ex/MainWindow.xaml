@@ -1,4 +1,4 @@
-﻿<Window x:Class="DocumentGroup_MDI_Ex.MainWindow"
+<Window x:Class="DocumentGroup_MDI_Ex.MainWindow"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     Title="Window1" Height="341" Width="605" 
