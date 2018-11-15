@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/DocumentGroup_MDI_Ex/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DocumentGroup_MDI_Ex/MainWindow.xaml))**
+* [MainWindow.xaml.cs](./CS/DocumentGroup_MDI_Ex/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DocumentGroup_MDI_Ex/MainWindow.xaml))
+<!-- default file list end -->
 # How to: Enable MDI Mode for a DocumentGroup
 
 
