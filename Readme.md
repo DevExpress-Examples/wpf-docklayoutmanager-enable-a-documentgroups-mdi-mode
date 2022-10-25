@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # WPF Dock Layout Manager - Enable MDI Mode for a DocumentGroup
 
-This example creates a _documentGroup1_ [DocumentGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentGroup) that is in [MDI mode](https://docs.devexpress.com/WPF/8129/controls-and-libraries/layout-management/dock-windows/docking-functionality/mdi-mode) (the [MDIStyle](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentGroup#mdi-style) property is set to [MDI](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.MDIStyle)). The [DocumentGroup's](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentGroup) panels are displayed as floating windows.
+This example creates a _documentGroup1_ [DocumentGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentGroup) that is in MDI mode (the [MDIStyle](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentGroup#mdi-style) property is set to [MDI](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.MDIStyle)). The [DocumentGroup's](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentGroup) panels are displayed as floating windows.
 
 ![image](https://user-images.githubusercontent.com/12169834/173898789-2efb414f-67f8-4051-a8b3-e5102d7501e7.png)
 
