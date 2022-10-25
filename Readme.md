@@ -12,7 +12,7 @@
 # How to: Enable MDI Mode for a DocumentGroup
 
 
-<p>In this example, <a href="https://documentation.devexpress.com/#WPF/CustomDocument8129">MDI mode</a> is enabled for a <a href="https://documentation.devexpress.com/#WPF/CustomDocument6830">DocumentGroup</a> via the <a href="https://documentation.devexpress.com/#WPF/DevExpressXpfDockingDocumentGroup_MDIStyletopic">MDIStyle</a> property. In this mode, the DocumentGroup's panels are represented as floating windows.</p>
+<p>In this example, <a href="https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentGroup#customize-a-documentgroup-and-its-children">MDI mode</a> is enabled for a <a href="https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentGroup">DocumentGroup</a> via the <a href="https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DocumentGroup.MDIStyle">MDIStyle</a> property. In this mode, the DocumentGroup's panels are represented as floating windows.</p>
 
 <br/>
 
